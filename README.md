@@ -1,2 +1,2 @@
 # TinyUrl
-the projet is build a Shorten URL link
+the projcet aim is to build a Shorten URL link
